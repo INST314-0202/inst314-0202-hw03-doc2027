@@ -1,0 +1,42 @@
+---
+title: 'Feedback'
+output: html_document
+---
+
+
+
+
+## Question 0
+
+Correct
+
+
+## Question 1a
+
+Correct
+
+
+## Question 1b
+
+Correct
+
+
+## Question 1c
+
+Correct
+
+
+## Question 1d
+
+Correct
+
+
+## Question 1g
+
+Correct
+
+
+## General feedback:
+
+Strong work.  You have a great understanding of the material.
+
